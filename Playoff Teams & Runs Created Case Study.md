@@ -58,7 +58,11 @@ This code spat out a beautiful visualization that highlights playoff teams and r
 
 ## Conclusion
 
-I was able to conclude that playoff teams are in the upper echelon of runs created. While it would be useful to look at runs differential, we know that from this graph, offense is very important.
+I was able to conclude that playoff teams are in the upper echelon of runs created. While it would be useful to look at runs differential, we know that from this graph, offense is very important. The teams that qualified for the playoffs led the league in runs created. This has implications that I can predict runs created by building and evaluating a predictive model and how it can be predict a possible playoff berth.
+
+## Limitations
+
+Some limitations we know of is that runs created isn't the only factor in deciding factor in whether or not a team is playoff bound. Runs differential (aka factoring in pitching/defense) can also paint a picture. Divisional/wild card standings are also important to note, because a team can be top in runs created but still be behind the top 2 better teams in their division, missing the playoffs. Nonetheless, this study painted a picture that I thought was interesting -- make no mistake: playoff teams can cross the hell out of home plate and do so by creating opportunities. Sort of a life lesson we can all apply to life.
 
 
 
