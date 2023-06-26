@@ -67,7 +67,15 @@ ggplot(df, aes(x = Year, y = PAs_per_HR)) +
   ggtitle("PAs / HR Per Year (League-Average)")
 ````
 
+![alt text](https://github.com/trustinvo/baseball/blob/main/Screenshot%202023-06-22%20at%2012.16.06%20AM.png)
 
+Don't we love visuals?
+
+## Conclusions
+
+At the beginning of this blob I mentioned I wanted to learn a few things about this data and get my hands dirty.
+
+With this project, I was able to conclude that if a player were to hit a homerun every ~30 or so plate appearances when looking at 2018-2022 data, he's around league average. This can be beneficial to know, because if we can predict a player will hit, say, a homerun every ~20 or so plate appearances, we could have the next slugger on our hands. I was surprised to find out there wasn't really a signficant difference in the rate of homeruns occuring in this 2018-2022 timeframe. Although, I beg to question why players in 2022 struggled slightly more to hit homeruns. In the future, I want to gain more experience building a predictive model to be able to predict the next slugger. To be frank, I want to gain experience working with baseball data and seeing what I can and cannot predict -- that is the beauty of the sport.
 
 
 
