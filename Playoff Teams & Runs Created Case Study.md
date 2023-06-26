@@ -7,9 +7,8 @@ It is no surprise the name of the game of baseball is to outscore the opponent. 
 This fascinated me because we know a good team outscores their opponent. In other words, if you create more runs than the other team, you win. I wanted to see the relationship between wins and RC.
 
 ## Technologies
-
-Languages: R, SQL
-Packages: readr, ggplot2
+- Languages: R, SQL
+- Packages: readr, ggplot2
 
 ## Dataset
 I turned to Baseball Reference again for the sabermetric statistics from 2018. I collected 2018-2021 for this case study as well, but have not done the analysis for 2019-2022 quite yet. I will soon. I'm busy writing this blob. The 2018 sabermetric statistics table shows these fun stats for all 30 teams:
