@@ -2,7 +2,7 @@
 
 ## Objective
 
-It is no surprise the name of the game of baseball is to outscore the opponent. When you outscore the opponent for a whole game, it counts as a win. So to win, you must create more runs than the other team. Runs Created (RC) was a sabermetric statistic created by the late-great Bill James. According to MLB.com, it estimates a player's offensive contribution in terms of total runs. It combines a player's ability to get on base with his ability to hit for extra bases and divides those two by the player's total opportunities. The formula for Runs Created is: TB [total bases] x (H [hits] + BB [walks]) / (AB [at-bats] + BB [walks]). 
+It is no surprise the name of the game of baseball is to outscore the opponent. When you outscore the opponent for a whole game, it counts as a win. So to win, you must create more runs than the other team. Runs Created (RC) was a sabermetric statistic created by Bill James. According to MLB.com, it estimates a player's offensive contribution in terms of total runs. It combines a player's ability to get on base with his ability to hit for extra bases and divides those two by the player's total opportunities. The formula for Runs Created is: TB [total bases] x (H [hits] + BB [walks]) / (AB [at-bats] + BB [walks]). 
 
 This fascinated me because we know a good team outscores their opponent. In other words, if you create more runs than the other team, you win. I wanted to see the relationship between wins and RC.
 
